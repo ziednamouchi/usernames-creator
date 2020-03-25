@@ -1,7 +1,7 @@
 # usernames-creator
 This script creates a wordlist of usernames based on diffrent corporate naming conventions
 
-#### Exmaple with Joe Doe
+#### Example with Joe Doe
 #1-  joe  
 #2-  doe  
 #3-  joedoe  
